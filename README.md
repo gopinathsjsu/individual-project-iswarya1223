@@ -46,12 +46,17 @@ Develop an inventory management system in which inventory details and cards deta
 
 #### Input:
 
+Input file with new card for payment
 ![](https://github.com/gopinathsjsu/individual-project-iswarya1223/blob/main/.idea/test3.png)
+
+Card details before running the program:
 ![](https://github.com/gopinathsjsu/individual-project-iswarya1223/blob/main/.idea/testcase3_card_details_before_run.png)
 
 #### Output:
 
 ![](https://github.com/gopinathsjsu/individual-project-iswarya1223/blob/main/.idea/test3results1.png)
+
+updated card database after running the program
 ![](https://github.com/gopinathsjsu/individual-project-iswarya1223/blob/main/.idea/test3results2.png)
 
 
